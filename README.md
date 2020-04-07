@@ -1,2 +1,2 @@
 # C
-C Programming Language
+This repository contains programs written in C Programming Language.
