@@ -13,7 +13,7 @@ int main()
     printf("\n");
     varValue3 = 15;
     pointerValue = &varValue3;
-    printf("AThe pointer value is %d, the pointer address is %p.", *pointerValue, pointerValue);
+    printf("AaThe pointer value is %d, the pointer address is %p.", *pointerValue, pointerValue);
     printf("\n");
     
     
