@@ -4,7 +4,6 @@ int main() {
     int number = 1;
     float floatnumber = 20.10;
     double doublenumber = 20.20;
-    string
     char charvar = 'a';
     int getIntInput;
     float getFloatInput;
